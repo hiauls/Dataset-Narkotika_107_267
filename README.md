@@ -1,7 +1,11 @@
 # PUTUSAN PENGADILAN
 
 ## ABOUT
-Pada tugas mata kuliah Temu Kembali Informasi, kami melakukakan pengumpulan dan pengolahan dataset dari website Makamah Agung serta pembuatan document search engine menggunakan metode *Naive Bayes*
+Project ini merupakan tugas besar dari mata kuliah _Temu Kembali Informasi_ dengan topik putusan pidana khusus Narkotika dan Psikotropika _PN Jakarta Pusat_. Dataset dikumpulkan secara manual dengan empat (4) Atribut, yaitu:
+  * No
+  * No Putusan
+  * Barang Bukti
+  * Amar Keputusan
 
 ***ANGGOTA :***
   1. Iqmah Nurrizky A : 201910370311107
